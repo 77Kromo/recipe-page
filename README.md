@@ -86,11 +86,11 @@ A responsive recipe page for a delicious omelette, built with semantic HTML and 
 
 - GitHub: [77Kromo](https://github.com/77Kromo)
 - Frontend Mentor: [@77Kromo](https://www.frontendmentor.io/profile/77Kromo)
-- Twitter: [@Kromo77](https://twitter.com/Kromo77)
+- Twitter: [@kromo772004](https://x.com/kromo772004)
 
 ---
 
 **Challenge Resources**  
 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)  
 [Solution URL](https://your-solution-url.com)  
-[Live Site](https://your-live-demo.com)
+[Live Site](https://recipe-page77.netlify.app/)
