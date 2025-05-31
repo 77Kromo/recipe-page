@@ -1,7 +1,7 @@
 
 # Recipe Page | Frontend Mentor Solution
 
-[![Recipe Preview](./screenshot.jpg)](https://your-live-demo.com)
+[![Recipe Preview](./assets/images/screenshot.png)](https://recipe-page77.netlify.app/)
 
 A responsive recipe page for a delicious omelette, built with semantic HTML and modern CSS techniques.
 
@@ -92,5 +92,5 @@ A responsive recipe page for a delicious omelette, built with semantic HTML and 
 
 **Challenge Resources**  
 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)  
-[Solution URL](https://your-solution-url.com)  
+[Solution URL](https://www.frontendmentor.io/solutions/responsive-recipe-page-tLUG4TEuQM)  
 [Live Site](https://recipe-page77.netlify.app/)
